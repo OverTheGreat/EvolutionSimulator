@@ -1,2 +1,2 @@
 # EvolutionSimulator
-Pyhton-based evolution simulation
+Python-based evolution simulation
